@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://autocalctools.pages.dev/sitemap.xml
